@@ -1,5 +1,5 @@
 import java.util.*;
-public class Reverse {
+public class ReverseOfArray {
     public static void main(String str[])
     {
         int i;
